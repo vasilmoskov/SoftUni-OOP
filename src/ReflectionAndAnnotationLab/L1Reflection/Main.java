@@ -1,4 +1,4 @@
-package ReflectionLab.L1Reflection;
+package ReflectionAndAnnotationLab.L1Reflection;
 
 import java.lang.reflect.InvocationTargetException;
 

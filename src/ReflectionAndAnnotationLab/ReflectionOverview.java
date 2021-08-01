@@ -1,6 +1,6 @@
-package ReflectionLab;
+package ReflectionAndAnnotationLab;
 
-import ReflectionLab.L4CreateAnnotation.Subject;
+import ReflectionAndAnnotationLab.L4CreateAnnotation.Subject;
 
 import java.lang.annotation.Annotation;
 import java.lang.reflect.*;
@@ -12,7 +12,7 @@ public class ReflectionOverview {
         Scanner scanner = new Scanner(System.in);
 
         //Obtain its java.lang.Class object
-        Class myClass = Class.forName("ReflectionLab.Person");
+        Class myClass = Class.forName("ReflectionAndAnnotationLab.Person");
 
         //Obtain Class name
         String className = myClass.getName();

@@ -1,4 +1,4 @@
-package ReflectionLab.L1Reflection;
+package ReflectionAndAnnotationLab.L3HighQualityMistakes;
 
 import java.io.Serializable;
 

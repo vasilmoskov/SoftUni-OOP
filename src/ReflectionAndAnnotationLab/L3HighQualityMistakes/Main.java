@@ -1,4 +1,4 @@
-package ReflectionLab.L3HighQualityMistakes;
+package ReflectionAndAnnotationLab.L3HighQualityMistakes;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;

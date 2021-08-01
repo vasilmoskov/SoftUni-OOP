@@ -1,4 +1,4 @@
-package ReflectionLab.L2GettersAndSetters;
+package ReflectionAndAnnotationLab.L2GettersAndSetters;
 
 import java.lang.reflect.Method;
 import java.util.*;

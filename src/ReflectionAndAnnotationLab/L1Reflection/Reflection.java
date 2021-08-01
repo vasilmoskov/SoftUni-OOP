@@ -1,4 +1,4 @@
-package ReflectionLab.L2GettersAndSetters;
+package ReflectionAndAnnotationLab.L1Reflection;
 
 import java.io.Serializable;
 
